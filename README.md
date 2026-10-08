@@ -46,5 +46,6 @@ Efekti durdurup çıkmak için:
 ---
 
 ## 📜 Lisans
-Bu proje açık kaynaklıdır, dilediğiniz gibi kullanabilir ve paylaşabilirsiniz.
+
+Bu proje [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak sunulmuştur. İstediğiniz gibi kullanabilir, değiştirebilir ve paylaşabilirsiniz.
 
